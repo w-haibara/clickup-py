@@ -1,1 +1,1 @@
-# cui
+# clickup-py
